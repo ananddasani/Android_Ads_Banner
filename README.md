@@ -1,6 +1,8 @@
 # Android_Ads_Banner
 Integrating Banner Ad in an Application 
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MainActivity.java
@@ -82,6 +84,6 @@ public class BannerAdMainActivity {
 
 # App Highlight
 
-<img src="app_images/Ads Banner Code.png" width="1000" /><br>
+![Ads Banner App1](https://user-images.githubusercontent.com/74413402/192094269-ce8347d8-303c-4bc7-961c-b9091f32391b.png)
+![Ads Banner Code](https://user-images.githubusercontent.com/74413402/192094271-5174ffaf-0c68-4729-a48f-4bf769b41f88.png)
 
-<img src="app_images/Ads Banner App1.png" width="300" /><br>
